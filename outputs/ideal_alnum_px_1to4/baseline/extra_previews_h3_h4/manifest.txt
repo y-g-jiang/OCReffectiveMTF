@@ -1,0 +1,6 @@
+Source experiment: outputs/ideal_alnum_px_1to4/baseline
+Text: BFUCAOZJ9Y5KPW0TSHL38D2NGMVRX7Q64IE1
+Heights: 3 px, 4 px
+Phases: 0,3,7,11,15 in x and y
+Rho sweep: 0.1 to 1.0
+Mode: preview-only, no OCR rerun

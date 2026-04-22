@@ -1,0 +1,4 @@
+rho,mu_p,char_height_px,font_name,text,phase_x,phase_y,qe_total,aperture_width_px,mtf_nyquist,aperture_f50_cpp,ocr_text,cer,char_acc
+0.1,16,6,arial.ttf,999NG7,0,0,0.085,5.059644,0.959381,1.907975,TG,0.833333,0.166667
+0.5,16,6,arial.ttf,999NG7,0,0,0.425,11.313708,0.8067,0.853272,,1.0,0.0
+1.0,16,6,arial.ttf,999NG7,0,0,0.85,16.0,0.63662,0.603355,,1.0,0.0
